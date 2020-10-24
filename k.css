@@ -1,0 +1,40 @@
+body{
+    background-color:black;
+    background-image:url("p2.jpg");
+    color:white;
+    font-family:merriweather;
+}
+
+h1{
+    text-align:center;
+    font-size:100px;
+}
+
+a{
+   text-decoration:none;
+   font-size:50px;
+   color:whitesmoke;
+}
+
+#d1{
+    border:1px solid whitesmoke;
+    text-align:center;
+}
+
+#d2{
+    font-size:30px;
+    border:1px solid whitesmoke;
+    text-align:center;
+  
+    
+}
+
+h3{
+    color:white;
+    font-size:30px;
+
+}
+
+.c1{
+    font-size:20px;
+}
